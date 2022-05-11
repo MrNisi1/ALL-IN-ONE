@@ -6,7 +6,7 @@ SO FIRST APPROVED AND USE THIS
 #### INSTALL TOOLS:
  DOWNLOAD TERMUX LETEST VERSION  [CLICK!](https://f-droid.org/repo/com.termux_117.apk),
  ```
-°rm -rf Free_paid
+°rm -rf MAL1
 °termux-setup-storage -y
 °apt-get update -y
 °apt-get upgrade 

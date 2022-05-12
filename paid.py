@@ -18,5 +18,5 @@ elif bit == '32bit':
     os.system('clear')
     print('WELCOME 32 BIT PAID USER..!')
     sleep (2)
-    from MAL import hello
-    hello()
+    from MAL32 import apv
+    apv()

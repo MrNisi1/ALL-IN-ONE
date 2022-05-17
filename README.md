@@ -4,8 +4,8 @@
 #### THIS IS PAID TOOLS
 SO FIRST APPROVED AND USE THIS
 #### DOWNLOAD TERMUX LETEST VERSION :
- DOWNLOAD TERMUX LETEST VERSION  [CLICK!](https://f-droid.org/repo/com.termux_117.apk),
- 
+ ```DOWNLOAD TERMUX LETEST VERSION  [CLICK!](https://f-droid.org/repo/com.termux_117.apk),
+ ```
 ####INSTALL TOOLS
 ```rm -rf MAL1
 termux-setup-storage -y

@@ -11,12 +11,14 @@ if bit == '64bit':
     os.system('clear')
     print ('WELCOME 64 BIT PAID USER..!')
     sleep (2)
-    from MAL64 import apv
+    from MAL64 import main_apv
     ()
 
 elif bit == '32bit':
     os.system('clear')
     print('WELCOME 32 BIT PAID USER..!')
     sleep (2)
-    from pyx import apv
-    apv()
+    from MAL import main_apv
+    main_apv()
+    
+ 

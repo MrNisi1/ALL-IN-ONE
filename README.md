@@ -3,10 +3,11 @@
 #### MY TOOLS NAME
 #### THIS IS PAID TOOLS
 SO FIRST APPROVED AND USE THIS
-#### INSTALL TOOLS:
+#### DOWNLOAD TERMUX LETEST VERSION :
  DOWNLOAD TERMUX LETEST VERSION  [CLICK!](https://f-droid.org/repo/com.termux_117.apk),
- ```
-rm -rf MAL1
+ 
+####INSTALL TOOLS
+```rm -rf MAL1
 termux-setup-storage -y
 apt-get update -y
 apt-get upgrade 
@@ -18,13 +19,13 @@ pip install requests
 pip install mechanize 
 pip install bs4 
 pip install uuid
-git clone https://github.com/MrNisi1/MAL1
+git clone https://github.com/MrNisi1/ALL-IN-ONE
  ```
  Follow and run step by step
 #### RUN TOOLS:
  COPY AND PAST:
  ```
-cd MAL1
+cd ALL-IN-ONE
 git pull
 python paid.py
  ```
